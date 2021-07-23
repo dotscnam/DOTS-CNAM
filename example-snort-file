@@ -1,0 +1,169 @@
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+WARNING: No preprocessors configured for policy 0.
+05/22-10:39:29.049236 125.10.214.157 -> 172.17.0.3
+ICMP TTL:16 TOS:0x0 ID:1 IpLen:20 DgmLen:1486 DF
+Type:8  Code:0  ID:0   Seq:0  ECHO
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+WARNING: No preprocessors configured for policy 0.
+05/22-10:39:29.049245 125.10.214.157 -> 172.17.0.3
+ICMP TTL:15 TOS:0x0 ID:1 IpLen:20 DgmLen:1486 DF
+Type:8  Code:0  ID:0   Seq:0  ECHO
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+WARNING: No preprocessors configured for policy 0.
+05/22-10:39:29.049258 125.10.214.157 -> 172.17.0.3
+ICMP TTL:14 TOS:0x0 ID:1 IpLen:20 DgmLen:1486 DF
+Type:8  Code:0  ID:0   Seq:0  ECHO
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+WARNING: No preprocessors configured for policy 0.
+05/22-10:39:29.049276 125.10.214.157 -> 172.17.0.3
+ICMP TTL:13 TOS:0x0 ID:1 IpLen:20 DgmLen:1486 DF
+Type:8  Code:0  ID:0   Seq:0  ECHO
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+WARNING: No preprocessors configured for policy 0.
+05/22-10:39:29.049390 125.10.214.157 -> 172.17.0.3
+ICMP TTL:12 TOS:0x0 ID:1 IpLen:20 DgmLen:1486 DF
+Type:8  Code:0  ID:0   Seq:0  ECHO
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+WARNING: No preprocessors configured for policy 0.
+05/22-10:39:29.049418 125.10.214.157 -> 172.17.0.3
+ICMP TTL:11 TOS:0x0 ID:1 IpLen:20 DgmLen:1486 DF
+Type:8  Code:0  ID:0   Seq:0  ECHO
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+WARNING: No preprocessors configured for policy 0.
+05/22-10:39:29.049453 125.10.214.157 -> 172.17.0.3
+ICMP TTL:10 TOS:0x0 ID:1 IpLen:20 DgmLen:1486 DF
+Type:8  Code:0  ID:0   Seq:0  ECHO
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+WARNING: No preprocessors configured for policy 0.
+05/22-10:39:29.049477 125.10.214.157 -> 172.17.0.3
+ICMP TTL:9 TOS:0x0 ID:1 IpLen:20 DgmLen:1486 DF
+Type:8  Code:0  ID:0   Seq:0  ECHO
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+WARNING: No preprocessors configured for policy 0.
+05/22-10:39:29.049487 125.10.214.157 -> 172.17.0.3
+ICMP TTL:8 TOS:0x0 ID:1 IpLen:20 DgmLen:1486 DF
+Type:8  Code:0  ID:0   Seq:0  ECHO
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+WARNING: No preprocessors configured for policy 0.
+05/22-10:39:29.049496 125.10.214.157 -> 172.17.0.3
+ICMP TTL:7 TOS:0x0 ID:1 IpLen:20 DgmLen:1486 DF
+Type:8  Code:0  ID:0   Seq:0  ECHO
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+WARNING: No preprocessors configured for policy 0.
+05/22-10:39:29.049507 125.10.214.157 -> 172.17.0.3
+ICMP TTL:6 TOS:0x0 ID:1 IpLen:20 DgmLen:1486 DF
+Type:8  Code:0  ID:0   Seq:0  ECHO
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+WARNING: No preprocessors configured for policy 0.
+05/22-10:39:29.049516 125.10.214.157 -> 172.17.0.3
+ICMP TTL:5 TOS:0x0 ID:1 IpLen:20 DgmLen:1486 DF
+Type:8  Code:0  ID:0   Seq:0  ECHO
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+WARNING: No preprocessors configured for policy 0.
+05/22-10:39:29.049525 125.10.214.157 -> 172.17.0.3
+ICMP TTL:4 TOS:0x0 ID:1 IpLen:20 DgmLen:1486 DF
+Type:8  Code:0  ID:0   Seq:0  ECHO
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+WARNING: No preprocessors configured for policy 0.
+05/22-10:39:29.049534 125.10.214.157 -> 172.17.0.3
+ICMP TTL:3 TOS:0x0 ID:1 IpLen:20 DgmLen:1486 DF
+Type:8  Code:0  ID:0   Seq:0  ECHO
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+WARNING: No preprocessors configured for policy 0.
+05/22-10:39:29.049543 125.10.214.157 -> 172.17.0.3
+ICMP TTL:2 TOS:0x0 ID:1 IpLen:20 DgmLen:1486 DF
+Type:8  Code:0  ID:0   Seq:0  ECHO
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+WARNING: No preprocessors configured for policy 0.
+05/22-10:39:29.049552 125.10.214.157 -> 172.17.0.3
+ICMP TTL:1 TOS:0x0 ID:1 IpLen:20 DgmLen:1486 DF
+Type:8  Code:0  ID:0   Seq:0  ECHO
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+===============================================================================
+Run time for packet processing was 2.196426 seconds
+Snort processed 31282 packets.
+Snort ran for 0 days 0 hours 0 minutes 2 seconds
+   Pkts/sec:        15641
+===============================================================================
+Memory usage summary:
+  Total non-mmapped bytes (arena):       782336
+  Bytes in mapped regions (hblkhd):      21590016
+  Total allocated space (uordblks):      669712
+  Total free space (fordblks):           112624
+  Topmost releasable block (keepcost):   106448
+===============================================================================
+Packet I/O Totals:
+   Received:        31282
+   Analyzed:        31282 (100.000%)
+    Dropped:            0 (  0.000%)
+   Filtered:            0 (  0.000%)
+Outstanding:            0 (  0.000%)
+   Injected:            0
+===============================================================================
+Breakdown by protocol (includes rebuilt packets):
+        Eth:        31282 (100.000%)
+       VLAN:            0 (  0.000%)
+        IP4:        31282 (100.000%)
+       Frag:            0 (  0.000%)
+       ICMP:        31282 (100.000%)
+        UDP:            0 (  0.000%)
+        TCP:            0 (  0.000%)
+        IP6:            0 (  0.000%)
+    IP6 Ext:            0 (  0.000%)
+   IP6 Opts:            0 (  0.000%)
+      Frag6:            0 (  0.000%)
+      ICMP6:            0 (  0.000%)
+       UDP6:            0 (  0.000%)
+       TCP6:            0 (  0.000%)
+     Teredo:            0 (  0.000%)
+    ICMP-IP:            0 (  0.000%)
+    IP4/IP4:            0 (  0.000%)
+    IP4/IP6:            0 (  0.000%)
+    IP6/IP4:            0 (  0.000%)
+    IP6/IP6:            0 (  0.000%)
+        GRE:            0 (  0.000%)
+    GRE Eth:            0 (  0.000%)
+   GRE VLAN:            0 (  0.000%)
+    GRE IP4:            0 (  0.000%)
+    GRE IP6:            0 (  0.000%)
+GRE IP6 Ext:            0 (  0.000%)
+   GRE PPTP:            0 (  0.000%)
+    GRE ARP:            0 (  0.000%)
+    GRE IPX:            0 (  0.000%)
+   GRE Loop:            0 (  0.000%)
+       MPLS:            0 (  0.000%)
+        ARP:            0 (  0.000%)
+        IPX:            0 (  0.000%)
+   Eth Loop:            0 (  0.000%)
+   Eth Disc:            0 (  0.000%)
+   IP4 Disc:            0 (  0.000%)
+   IP6 Disc:            0 (  0.000%)
+   TCP Disc:            0 (  0.000%)
+   UDP Disc:            0 (  0.000%)
+  ICMP Disc:            0 (  0.000%)
+All Discard:            0 (  0.000%)
+      Other:            0 (  0.000%)
+Bad Chk Sum:            0 (  0.000%)
+    Bad TTL:            0 (  0.000%)
+     S5 G 1:            0 (  0.000%)
+     S5 G 2:            0 (  0.000%)
+      Total:        31282
+===============================================================================
+Snort exiting
