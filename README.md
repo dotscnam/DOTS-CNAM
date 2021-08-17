@@ -24,7 +24,7 @@ Le data channel est l’autre partie du serveur DOTS. Il permet de réaliser de 
 
 La télémétrie permet de savoir si le client est présent ou si il rencontre des problèmes ; suivant la configuration le data server peut alors demander une analyse des flux si le client ne répond plus durant un laps de temps défini. Les échanges sont chiffrés via ce canal en utilisant TLS.
 
-En une image : ![alt text](https://github.com/dotscnam/DOTS-CNAM/blob/main/uml.jpg =100x20 "diagramme de fonctionnement UML")
+En une image : ![alt text](https://github.com/dotscnam/DOTS-CNAM/blob/main/uml.jpg =100x20)
 
 ## Fonctionnement
 Le client DOTS vérifie si il possède des nonces -  éléments indispensables pour l'envoi de requêtes  de mitigation. Si il n’y en a pas, le data server lui en fournira via une connexion TLS. Ces nonces sont générés par le signal server.
