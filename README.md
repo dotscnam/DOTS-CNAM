@@ -99,4 +99,8 @@ L'attaque est maintenant stoppée. Le client va alors demandé de nouvelles nonc
 
 ![Alt Text](https://media.giphy.com/media/Xl8H3n8sT6Uf8xeTzK/source.gif)
 
+Ici un attaquant réalise une attaque DOS. Le client DOTS répond immédiatement en demandant une défense au serveur de signalement via le protocole COAP.
+Le serveur de données réalisé la télémétrie et fournit une nonce au client après l'attaque.
+L'attaque est stoppée!
+
 
